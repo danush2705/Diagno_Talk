@@ -1,0 +1,8 @@
+streamlit
+pandas
+SpeechRecognition
+googletrans
+scikit-learn
+nltk
+torch
+torchvision
